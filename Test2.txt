@@ -6,3 +6,7 @@ GitTest1用户创建了Test2文件
 --------测试冲突
 我是GitTest1用户,修改了Test2文件
 好巧,我是GitTest2用户,也修改了Test2文件
+
+
+-----测试冲突2----
+好巧,我是GitTest2用户,再次修改了Test2文件
